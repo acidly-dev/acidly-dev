@@ -60,6 +60,19 @@ Kein Produktionscode.
 
 ---
 
+## 🧪 Erste Erfahrungen
+- **2 Wochen Java Summer Camp bei GFOS**
+  - Grundlagen in Java
+  - Einführung in objektorientierte Programmierung
+  - Arbeiten an kleinen Übungsprojekten
+
+- **4 Wochen Praktikum in der Softwareentwicklung bei GFOS**
+  - Einblicke in professionelle Softwareentwicklung
+  - Mitarbeit an einfachen Entwicklungsaufgaben
+  - Kennenlernen von Entwicklungsprozessen und Teamarbeit
+
+---
+
 ## 📫 How to reach me
 - GitHub: `acidly-dev`
 - Weitere Kontaktdaten folgen
