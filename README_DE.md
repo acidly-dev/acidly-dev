@@ -1,3 +1,5 @@
+**Deutsch** | [English](README.md)
+
 # 👋 Hi, I’m acidly-dev
 
 ## 🧑‍🎓 About Me
